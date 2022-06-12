@@ -1,2 +1,6 @@
 Welcome to edureka
 Welcome to git commands
+
+Welcome to big data session
+Welcome to Automation Session
+Welcome to devops session
